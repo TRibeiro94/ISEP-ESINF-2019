@@ -1,11 +1,22 @@
 # ISEP-ESINF-2019
--------------
 
-Projects of ESINF unit course
+##### EN (Information Structures)
+
+Resolution of ESINF unit course projects.
 
 Language used: Java
 
 Each project has a statement on 'Statements' folder.
+
+--------------------------------
+##### PT (Estruturas de Informação)
+Resolução dos projetos de ESINF.
+
+Linguagem usada: Java
+
+Cada projeto tem o respetivo enunciado na pasta 'Statements'.
+
+--------------------------------
 
 2nd Project - Capitals Graph
 ![CapitalsGraph.png](Images/CapitalsGraph.png)
