@@ -6,7 +6,7 @@ Resolution of ESINF unit course projects.
 
 Language used: Java
 
-Each project has a statement on 'Statements' folder.
+Each project has a respective statement on 'Statements' folder.
 
 --------------------------------
 ##### PT (Estruturas de Informação)
