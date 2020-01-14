@@ -9,12 +9,20 @@ Language used: Java
 Each project has a respective statement on 'Statements' folder.
 
 --------------------------------
+
+2º Year, 1º Semester
+
+--------------------------------
 ##### PT (Estruturas de Informação)
 Resolução dos projetos de ESINF.
 
 Linguagem usada: Java
 
 Cada projeto tem o respetivo enunciado na pasta 'Statements'.
+
+--------------------------------
+
+2º Ano, 1º Semestre
 
 --------------------------------
 
